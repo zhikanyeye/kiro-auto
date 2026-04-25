@@ -6,6 +6,12 @@
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![TypeScript](https://img.shields.io/badge/typescript-5.9-blue)](https://www.typescriptlang.org/)
 
+## 🚀 部署指南（免费优先）
+
+- 快速部署文档：[`DEPLOY_FAST.md`](./DEPLOY_FAST.md)
+- 推荐优先使用 **Railway**（免费额度，最快上线），保留本地 / 云主机 Docker 作为回退方案
+- 注意：Railway 免费策略可能变动，请以官方页面为准
+
 ## 特性
 
 ### 自动注册
